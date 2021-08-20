@@ -4,7 +4,7 @@ The radio transmissions between the air traffic controllers and the pilots are e
 
 ## Available ATC channels for Bern-Belp Airport (LSZB)
 Here you can find an overview with all ATC channels available for Bern (LSZB):</br>
-[https://www.liveatc.net/search/?icao=lszb](https://www.liveatc.net/search/?icao=lszb)
+<a href="https://www.liveatc.net/search/?icao=lszb" target="_blank">https://www.liveatc.net/search/?icao=lszb</a>
 
 ## A short explanation of the individual channels:
 - **LSZB App/Dep:** Arrival&Departure controls the (instrument) arrivals and the (instrument) departures. 
@@ -25,7 +25,7 @@ Here you can find an overview with all ATC channels available for Bern (LSZB):</
 4. For the very experienced listener, I recommend the mixed channel where you hear Tower (left), Clearence Delivery (center) and Arrival&Departure (right) simultaneously in stereo panorama. But be careful: If two or three channels are active at the same time, understanding the simultaneous radio messages becomes a real challenge. Are you ready for it...? ;-)
 
 ## More information
-More information about Bern-Belp Airport can be found on the [official airport website](www.bernairport.ch). Of particular interest to you is all the information in the airport's so-called [AIP LSZB](https://www.bernairport.ch/de/operational/flight-operation/Flight-OPS-5). In the downloadable PDF document you can find details about the facilities, the approach and departure procedures and much more.
+More information about Bern-Belp Airport can be found on the [official airport website](www.bernairport.ch). Of particular interest to you is all the information in the airport's so-called <a href="https://www.bernairport.ch/de/operational/flight-operation/Flight-OPS-5" target="_blank">AIP LSZB</a>. In the downloadable PDF document you can find details about the facilities, the approach and departure procedures and much more.
 
 ## Radar Map
 There are also several websites on the Internet where you can track the aircraft that can be detected by ADS-B parallel to the aircraft radio. Very exciting, if you can see the aircraft on the map at the same time as listening to the ATC.
