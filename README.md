@@ -25,7 +25,7 @@ Here you can find an overview with all ATC channels available for Bern (LSZB):</
 4. For the very experienced listener, I recommend the mixed channel where you hear Tower (left), Clearence Delivery (center) and Arrival&Departure (right) simultaneously in stereo panorama. But be careful: If two or three channels are active at the same time, understanding the simultaneous radio messages becomes a real challenge. Are you ready for it...? ;-)
 
 ## More information
-More information about Bern-Belp Airport can be found on the [official airport website](www.bernairport.ch). Of particular interest to you is all the information in the airport's so-called <a href="https://www.bernairport.ch/de/operational/flight-operation/Flight-OPS-5" target="_blank">AIP LSZB</a>. In the downloadable PDF document you can find details about the facilities, the approach and departure procedures and much more.
+More information about Bern-Belp Airport can be found on the [official airport website](https://www.bernairport.ch). Of particular interest to you is all the information in the airport's so-called <a href="https://www.bernairport.ch/de/aviation/flugbetrieb/physikalische-merkmale" target="_blank">AIP LSZB</a>. In the downloadable PDF document you can find details about the facilities, the approach and departure procedures and much more.
 
 ## Radar Map
 There are also several websites on the Internet where you can track the aircraft that can be detected by ADS-B parallel to the aircraft radio. Very exciting, if you can see the aircraft on the map at the same time as listening to the ATC.
@@ -34,5 +34,5 @@ There are also several websites on the Internet where you can track the aircraft
 
 ## Livecam
 And here you can even see what is happening on the apron via a webcam at the airport.
-- [Livecam](https://www.bernairport.ch/de/erlebnis-flughafen/live/webcam)
+- [Livecam](https://https://www.bernairport.ch/de/besuchen/erkunden/bern-airport)
 
