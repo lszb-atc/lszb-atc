@@ -34,5 +34,5 @@ There are also several websites on the Internet where you can track the aircraft
 
 ## Livecam
 And here you can even see what is happening on the apron via a webcam at the airport.
-- [Livecam]([https://www.bernairport.ch/de/besuchen/erkunden/bern-airport](https://www.bernairport.ch/en/aviation/flugbetrieb/webcam-1))
+- [Livecam](https://www.bernairport.ch/en/aviation/flugbetrieb/webcam-1)
 
