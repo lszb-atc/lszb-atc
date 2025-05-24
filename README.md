@@ -1,6 +1,6 @@
 # ATC audio streams of Bern-Belp Airport (LSZB)
 
-The radio transmissions between the air traffic controllers and the pilots are extremely exciting. And thanks to modern technologies, you can even listen to these radio messages live and free of charge worldwide via the Internet. The great website [liveatc.net](http://liveatc.net) makes this possible for many airports worldwide! Also for Bern-Belp Airport (LSZB, BRN) in Switzerland, which is the focus of this website.
+The radio transmissions between the air traffic controllers and the pilots are extremely exciting. And thanks to modern technologies, you can even listen to these radio messages live and free of charge worldwide via the Internet. The great website [liveatc.net](http://liveatc.net) makes this possible for many airports worldwide! Also for Bern-Belp Airport (LSZB, BRN) in Switzerland, which is the focus of this website. Here you find a [picture of the feeder](126394160-c874b417-662b-473a-9b90-482360d26518.jpg) setup.
 
 ## Available ATC channels for Bern-Belp Airport (LSZB)
 Here you can find an overview with all ATC channels available for Bern (LSZB):</br>
